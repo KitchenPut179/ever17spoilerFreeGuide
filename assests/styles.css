@@ -7,3 +7,7 @@ li, b, h1, p, h3, label, summary{
     color: white;
     margin: 10px;
 }
+
+a {
+    color: aqua;
+}
